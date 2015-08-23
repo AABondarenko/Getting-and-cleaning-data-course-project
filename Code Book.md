@@ -28,5 +28,7 @@ signals were used to estimate variables of the feature vector for each pattern:
 - fBodyGyroMag
 - fBodyGyroJerkMag
 
+
+
 - mean(): Mean value
 - std(): Standard deviation
